@@ -1,0 +1,8 @@
+#
+# Jekyll Settings
+#
+markdown: redcarpet
+redcarpet:
+  extensions: ["tables"]
+sass:
+  style: :compressed
