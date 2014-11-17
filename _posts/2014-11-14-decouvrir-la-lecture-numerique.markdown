@@ -6,7 +6,7 @@ title: Découvrir la lecture numérique
 ![TEA, The Ebook Alternative](media/help-pages/TEA_logo.jpg)
 
 # Aide numérique
-## Découvrir la lecture numérique
+## Découvrir la lecture numérique !
 Un livre numérique (e-book) est un livre édité et diffusé en version numérique, disponible sous forme de fichier, qui peut être téléchargé, stocké et lu sur différents supports de lecture numérique.
 
 ### Avantages
