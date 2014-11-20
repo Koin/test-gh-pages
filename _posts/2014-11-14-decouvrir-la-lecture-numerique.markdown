@@ -5,7 +5,7 @@ title: Découvrir la lecture numérique
 
 Un livre numérique (e-book) est un livre édité et diffusé en version numérique, disponible sous forme de fichier, qui peut être téléchargé, stocké et lu sur différents supports de lecture numérique.
 
-### Avantages
+### Avantages !
 
 #### Une bibliothèque portable et pérenne :
 Grâce au numérique, emportez votre bibliothèque partout où vous allez. En effet les supports de lecture numérique permettent de stocker des milliers de titres dans une bibliothèque durable.
